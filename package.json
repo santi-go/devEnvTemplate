@@ -1,6 +1,6 @@
 {
-  "name": "ps-redux",
-  "description": "React and Redux Pluralsight course by Cory House",
+  "name": "Dev Env Template",
+  "description": "Template for a development enviroment using Node, Webpack, Babel and ESLint",
   "scripts": {},
   "dependencies": {
     "bootstrap": "4.3.1",
