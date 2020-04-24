@@ -1,1 +1,8 @@
-/node_modules
+# Dependency directory
+node_modules
+
+# build folder
+build
+
+#vs code directory
+.vscode
